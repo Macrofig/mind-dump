@@ -1,0 +1,12 @@
+{
+  "name": "mind-dump",
+  "version": "0.0.0",
+  "description": "mind dump",
+  "main": "index.js",
+  "author": "Juan Orozco",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  }
+}
